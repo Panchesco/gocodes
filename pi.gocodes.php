@@ -29,13 +29,13 @@
 // ------------------------------------------------------------------------
 
 /**
- * Good at Strings Plugin
+ * EE3 Gocodes plugin
  *
  * @package		ExpressionEngine
  * @subpackage		user
  * @category		Plugin
  * @author		Richard Whitmer
- * @link			https://github.com/panchesco
+ * @link			https://github.com/panchesco/gocodes
  */
 // ------------------------------------------------------------------------
 class Gocodes
