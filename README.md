@@ -4,10 +4,10 @@ ExpressionEngine 3 Plugin for switching out shortcodes in templates and entries 
 
 ##Usage: 
 
-1. Create a template group to hold templates you'll want to call with shortcodes in system/user/templates/default_site 
-	<br>	Be certain have enabled "Save templates as files" in the template manager.
-2. Create the templates you'll want to switch out. 
-	<br>	Note: EE template tags will not render.
+1. Be certain have enabled "Save templates as files" in the template manager.<br>
+Create a template group to hold templates you'll want to call with shortcodes in system/user/templates/default_site 	
+2. Create the templates you'll want to switch out.<br>
+Note: EE template tags will not render.
 3. Add shortcodes in the format [template_name] in templates or channel entries. When the page renders the shortcode will be replaced with the content of shortcodes/template_name
 
 ##Tag Pairs
